@@ -1,0 +1,7 @@
+# Local run history - personal data, never commit
+history/
+
+# Editor and OS noise
+*.log
+Thumbs.db
+.DS_Store
