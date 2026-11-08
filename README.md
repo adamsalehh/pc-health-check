@@ -59,6 +59,8 @@ double-click **`Run-PC-HealthCheck-Admin.cmd`** instead and accept the UAC promp
 
 ## Example output
 
+![PC Health Check - summary and action list](docs/screenshot.png)
+
 ```
 ==================================================================
   STORAGE (free space + disk health)
