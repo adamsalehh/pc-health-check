@@ -5,3 +5,6 @@ history/
 *.log
 Thumbs.db
 .DS_Store
+
+# Stray system folder
+%ProgramData%/
